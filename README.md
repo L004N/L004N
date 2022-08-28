@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (no,thx)
+i'm from Ukraine
